@@ -1,6 +1,3 @@
-function myFunction(p1, p2) {
-  return p1 * p2;
+function myFunction() {
+ console.log("Hello World")
 }
-
-var a = myFunction(3,4)
-console.log(a)
